@@ -255,13 +255,13 @@ let questions = [
 ];
 
 //CONSTANTS
-const INCORRECT_TAX = 5;
+const INCORRECT_TAX = 1;
 const MAX_QUESTIONS = 30;
 
 // Start Game & Timer
 startGame = () => {
   questionCounter = 0;
-  score = 1200;
+  score = 100;
   availableQuesions = [...questions];
   getNewQuestion();
 
