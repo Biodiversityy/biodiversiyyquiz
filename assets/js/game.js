@@ -29,11 +29,11 @@ let questions = [
   },
   {
     question: "What are the two criteria for an area to qualify as a biodiversity hotspot?",
-    choice1: "Must be a tropical region and have more than 1,000 species",
-    choice2: " Must have at least 1,500 vascular plant species and have lost at least 70% of its habitat",
+    choice1: "Must have at least 1,500 vascular plant species and have lost at least 70% of its habitat",
+    choice2: " Must be a tropical region and have more than 1,000 species",
     choice3: "Must have a large human population and endangered species",
     choice4: "Must have more than 50% of the world endemic species and no human activity",
-    answer: 2
+    answer: 1
   },
   {
     question: "How many biodiversity hotspots are recognized globally as of 2011?",
@@ -46,10 +46,10 @@ let questions = [
   {
     question: "What is an example of genetic diversity mentioned in the document?",
     choice1: "The variety of trees in a rainforest",
-    choice2: " The genetic similarity of cheetahs",
+    choice2: " The different types of oceans on Earth",
     choice3: "The number of birds in a region",
-    choice4: "The different types of oceans on Earth",
-    answer: 2
+    choice4: " The genetic similarity of cheetahs",
+    answer: 4
   },
   {
     question: "Which rainforest is home to over 10% of the world’s known species?",
@@ -61,11 +61,11 @@ let questions = [
   },
   {
     question: "What percentage of marine species depend on coral reefs?",
-    choice1: "10%",
-    choice2: "25%",
+    choice1: "25%",
+    choice2: "10%",
     choice3: "50%",
     choice4: "75%",
-    answer: 2
+    answer: 1
   },
   {
     question: "What is the main threat to bananas (Cavendish variety)?",
@@ -101,11 +101,11 @@ let questions = [
   },
    {
     question: "What is an example of an endemic species in Madagascar?",
-    choice1: "Cheetah",
+    choice1: "Lemurs",
     choice2: "Snow Leopard",
-    choice3: "Lemurs",
+    choice3: "Cheetahs",
     choice4: "Orangutan",
-    answer: 3
+    answer: 1
   },
   {
     question: "What is the role of pollinators in agriculture?",
@@ -134,10 +134,10 @@ let questions = [
   {
     question: "What does 'Jhum Cultivation' refer to?",
     choice1: "Large-scale farming",
-    choice2: "A form of shifting agriculture in Northeast India",
+    choice2: "A coral reef conservation technique",
     choice3: "A deep-sea fishing method",
-    choice4: "A coral reef conservation technique",
-    answer: 2
+    choice4: "A form of shifting agriculture in Northeast India",
+    answer: 4
   },
   {
     question: "Which biodiversity hotspot is known as the 'lungs of the planet'?",
@@ -197,11 +197,11 @@ let questions = [
   },
   {
     question: "What is the Mediterranean Basin known for?",
-    choice1: "Its extreme cold temperatures",
-    choice2: "Having more than 50% of its plant species as endemic",
+    choice1: "Having more than 50% of its plant species as endemic",
+    choice2: "Its extreme cold temperatures",
     choice3: "Its large desert regions",
     choice4: "Lack of human influence",
-    answer: 2
+    answer: 1
   },
   {
     question: "What is a Turtle Excluder Device (TED)?",
@@ -222,10 +222,10 @@ let questions = [
   {
     question: "What is the main environmental concern with the Ghazipur Garbage Mountain?",
     choice1: "Excessive plant growth",
-    choice2: "High methane emissions and groundwater pollution",
+    choice2: "Overuse of fertilizers",
     choice3: "Decreasing population of birds",
-    choice4: "Overuse of fertilizers",
-    answer: 2
+    choice4: "High methane emissions and groundwater pollution",
+    answer: 4
   },
   {
     question: "Why is the Ridge Forest important for Delhi?",
